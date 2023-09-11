@@ -17,3 +17,4 @@ sequence = [10, 22, 9, 33, 21, 50, 41, 60, 80]
 result = longest_increasing_subsequence(sequence)
 print(result)  # Output should be 6 (the longest increasing subsequence is [10, 22, 33, 50, 60, 80])
 ```
+
